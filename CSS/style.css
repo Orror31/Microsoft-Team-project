@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+.fa-solid,.fa-regular{
+    font-size:25px;
+}
+.card a{
+    text-decoration: none;
+}
+.card:hover{
+    box-shadow: 1px 1px 2px #ccc;    
+}
+.card{
+    width: 260px;
+
+}
+.left-column{
+    height: 100%;
+}
+a{
+
+}
